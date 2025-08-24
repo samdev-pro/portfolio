@@ -7,10 +7,10 @@ I’m a **Hybrid Tech Professional** focused on the intersection of **Data Engin
 ## 🚀 Featured Projects
 Here are a few highlights from my portfolio. Each project was built using a combination of AI to accelerate production and hands-on human development to ensure quality:
 
-- 🔧 **KPI Bot** → Automates project KPI reporting with email integration.  
-- 🏗 **Digital Twin Simulation** → Models construction data for real-time insights.  
-- 📊 **Data Pipeline ETL** → Scalable pipeline for processing construction datasets.  
-- 📅 **TPM Dashboard** → Centralized dashboard for project and resource management.  
+- **KPI Bot** → Automates project KPI reporting with email integration.  
+- **Digital Twin Simulation** → Models construction data for real-time insights.  
+- **Data Pipeline ETL** → Scalable pipeline for processing construction datasets.  
+- **TPM Dashboard** → Centralized dashboard for project and resource management.  
 
 ➡️ Explore more on my portfolio site: **[samdev.pro](https://samdev.pro)**
 
